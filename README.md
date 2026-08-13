@@ -8,7 +8,7 @@ Weekly pool & spa maintenance, water balancing, filter & equipment repair, and g
 - Address: 5316 Lena Rd Ste 102, Bradenton, FL 34211
 - Rating: 4.9 ★ across 40 Google reviews
 - Hours: Mon–Sat 9:00 AM–5:00 PM, Sun closed
-- Fonts: Imbue (display) + Finlandica Text (body)
+- Fonts: Gabarito (display) + Onest (body)
 - Photos & reviews sourced from the business's own Google Business Profile.
 
 Remove the `noindex` meta tag in `index.html` when the site goes live.
